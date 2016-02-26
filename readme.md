@@ -11,7 +11,7 @@
 4、GlobalPlatform_DM_SecurityDomain  
    GP2.1委托管理权限安全域下的下载安装删除指令。
 
-5、EP_load_purchase
+5、EP_load_purchase  
    电子钱包圈存、消费交易流程。
 
 6、BankPBOC_Personalization
