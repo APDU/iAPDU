@@ -14,8 +14,8 @@
 5、EP_load_purchase  
    电子钱包圈存、消费交易流程。
 
-6、BankPBOC_Personalization
-   某银行PBOC应用个人化测试数据；测试数据与正式数据差别只有密钥不同。   
+6、BankPBOC_Personalization  
+   某银行PBOC应用个人化测试数据；测试数据与正式数据差别只有密钥不同。     
    
 7、logicalload   
    通过辅助逻辑通道下载应用。  
